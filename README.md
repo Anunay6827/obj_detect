@@ -1,6 +1,7 @@
 # Object Detection using Arduino and ESP32
 
 Building Object Detection Systems
+
 Object detection systems use a "model" to identify objects in live videos. To create such a system, follow these steps:
 
 Gather Data
