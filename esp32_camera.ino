@@ -1,5 +1,5 @@
 /* Includes ---------------------------------------------------------------- */
-#include <Anunay6827-project-1_inferencing.h>
+#include <project-1_inferencing.h>
 #include "edge-impulse-sdk/dsp/image/image.hpp"
 
 #include "esp_camera.h"
